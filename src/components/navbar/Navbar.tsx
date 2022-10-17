@@ -7,7 +7,7 @@ const Navbar: FC = () => {
     <NavbarContainer>
       <Container>
         <NavBarLinks>
-          <NavBarLink to="/">Home</NavBarLink>
+          <NavBarLink to="/">Rick and Morty</NavBarLink>
         </NavBarLinks>
       </Container>
     </NavbarContainer>
