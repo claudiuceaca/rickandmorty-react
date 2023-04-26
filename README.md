@@ -62,6 +62,12 @@ Providing the solution:
 - Not mandatory but appreciated if you can deploy the solution
   to a free cloud platform, like Heroku or Zeit.
 
+
+ # <img src="https://user-images.githubusercontent.com/110819428/234557147-99799a26-011b-4dec-bc41-152b1b1baa13.jpg" alt="BasicShop" width="600"/> 
+ # <img src="https://user-images.githubusercontent.com/110819428/234557219-16a3fd3e-034a-4f9d-a232-e0e5db3047ba.jpg" alt="BasicShop" width="600"/> 
+ # <img src="https://user-images.githubusercontent.com/110819428/234557278-d1a52d5c-4e3d-4a70-b5b9-5ce279c7b15c.jpg" alt="BasicShop" width="600"/> 
+
+
 # Add me on
 
 www.linkedin.com/in/ceacaiosifclaudiu
